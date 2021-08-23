@@ -1,4 +1,4 @@
-/*
+if /*
  * @lc app=leetcode id=98 lang=golang
  *
  * [98] Validate Binary Search Tree
